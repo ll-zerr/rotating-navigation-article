@@ -4,7 +4,7 @@ This is a modification to the [Rotating Navigation project in the Udemy course 5
 
 ## Project Details
 
-### View My Project: 
+### View My Project: [https://ll-zerr.github.io/rotating-navigation-article/](https://ll-zerr.github.io/rotating-navigation-article/) 
 
 ![Screenshot](img/smartmockups_lfr1z3a4.png)
 
